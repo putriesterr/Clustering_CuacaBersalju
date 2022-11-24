@@ -1,4 +1,4 @@
-# Clustering_CuacaBersalju
+# Clustering Snowy Weather
 This project is to determine what factors cause the weather to be snowy today and snowy tomorrow. The dataset used contains attributes that may have factors that support knowing whether it will snow today and whether it will snow tomorrow.
 
 ## File Descriptions 
